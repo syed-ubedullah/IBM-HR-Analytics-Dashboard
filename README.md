@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="screenshots/01_Executive_Summary.png" alt="Executive Summary dashboard page" width="95%">
+<img src="screenshots/05_Key_Insights.png" alt="Key Insights and Recommendations dashboard page" width="95%">
 
 </div>
 
@@ -172,9 +172,7 @@ The dashboard follows a top-down story: overall picture, who is leaving, pay and
 
 ### Page 5: Key Insights and Recommendations
 
-<img src="screenshots/05_Key_Insights.png" alt="Page 5 Key Insights and Recommendations" width="100%">
-
-Four headline metrics and six insight cards, each with evidence and a recommended action.
+The page shown at the top of this README. It combines four headline metrics and six insight cards, each with evidence and a recommended action (full table in the next section). The screenshot is also available at [`screenshots/05_Key_Insights.png`](screenshots/05_Key_Insights.png).
 
 ---
 
